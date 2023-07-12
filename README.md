@@ -1,2 +1,2 @@
-# Mobile-Compatible-Trex-Game
-trex game that is compatible with mobile
+# PROC18-V3ColorfullTrex
+Colorful Trex
